@@ -1,0 +1,7 @@
+Average Pixel-wise Error: 0.14500732421875
+Average Precision: 0.6117798149585724
+Average Recall: 0.5715774595737457
+Average F1 Score: 0.577959269285202
+Average Accuracy: 0.85499267578125
+Average Dice Loss: 0.4220402598381042
+Average IoU: 0.4317912131547928
