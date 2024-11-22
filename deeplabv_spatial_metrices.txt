@@ -1,3 +1,4 @@
+KARACHI
 Average Pixel-wise Error: 0.14500732421875
 Average Precision: 0.6117798149585724
 Average Recall: 0.5715774595737457
@@ -5,3 +6,12 @@ Average F1 Score: 0.577959269285202
 Average Accuracy: 0.85499267578125
 Average Dice Loss: 0.4220402598381042
 Average IoU: 0.4317912131547928
+
+SWAT
+Average Pixel-wise Error: 0.165240478515625
+Average Precision: 0.7934341788291931
+Average Recall: 0.7677803754806518
+Average F1 Score: 0.7744400024414062
+Average Accuracy: 0.834759521484375
+Average Dice Loss: 0.2255595326423645
+Average IoU: 0.6326307535171509
