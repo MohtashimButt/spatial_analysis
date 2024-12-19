@@ -4,9 +4,9 @@ from PIL import Image, ImageDraw
 import numpy as np
 
 # Load the JSON data
-json_file_path = r'Swat_new\images\_annotations.coco.json'  # Change this to your JSON file path
-images_folder = r'Swat_new\images'                          # Path where your images are stored
-masks_folder = r'Swat_new\masks'                   # Path to save the generated masks
+json_file_path = fr"C:\Users\Mohtashim Butt\Documents\SPROJ-Fixing\Dataset_AUG\test\_annotations.coco.json"  # Change this to your JSON file path
+images_folder = fr"C:\Users\Mohtashim Butt\Documents\SPROJ-Fixing\Dataset_AUG\test\images"                          # Path where your images are stored
+masks_folder = fr"C:\Users\Mohtashim Butt\Documents\SPROJ-Fixing\Dataset_AUG\test\masks"                   # Path to save the generated masks
 
 # Create the output folder if it doesn't exist
 os.makedirs(masks_folder, exist_ok=True)
